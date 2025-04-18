@@ -1,3 +1,48 @@
+Top, hier is een voorstel voor je GitHub README (kort en helder, maar voldoende technisch en richtinggevend):
+
+---
+
+# Persoonlijkheidsgebaseerde Communicatiehulp met LLM-integratie
+
+## Over dit project
+
+Deze app ondersteunt het afstemmen van communicatie op collega’s of contacten op basis van hun persoonlijkheidsprofielen. Het systeem maakt gebruik van een eenvoudige databron (zoals YAML of JSON) waarin kerninformatie over personen wordt opgeslagen. Op basis hiervan kan een Large Language Model (zoals ChatGPT) contextueel advies geven over:
+
+- Hoe je een boodschap het best overbrengt.
+- Welke communicatiestijl of aanpak gepast is.
+- Hoe je spanningen of misverstanden vermijdt.
+- Hoe je inzichten over iemands profiel organisch kan uitbreiden via gesprekken.
+
+## Waarom dit project?
+
+Goede communicatie is niet one-size-fits-all. Deze tool helpt bij:
+- Persoonlijke groei in sociale intelligentie.
+- Beter samenwerken in technische of gemengde teams.
+- Reflectie op sociale interacties zonder ingewikkelde modellen of testbatterijen.
+
+## MVP-scope
+
+- [ ] YAML/JSON-bestand met basiskenmerken per persoon (naam, rol, type, observaties).
+- [ ] Prompt-gestuurde interactie met ChatGPT voor communicatieadvies.
+- [ ] Mogelijkheid om observaties uit gesprekken als updates in het profielbestand te verwerken.
+- [ ] Basale interface (CLI, Streamlit of VSCode-integratie).
+
+## Toekomstige uitbreidingen
+
+- Geautomatiseerde profielsuggesties op basis van gesprekslogs.
+- Visuele representaties van teamdynamiek.
+- Integratie met tools als Notion, Slack, of Teams.
+
+## Profiel & Skills
+
+Gebouwd door een INTJ-profiel met sterke technische skills en een diepe interesse in menselijk gedrag en spirituele ontwikkeling. Projecttype: exploratief, persoonlijk, strategisch inzetbaar.
+
+---
+
+Laat me weten als je het in Markdown wilt of in een specifiek GitHub template wil gieten.
+
+----   
+
 Zeker! Hier is een samenvatting van de stappen die nodig zijn om dit project van begin tot eind te realiseren. Het richt zich op het profieleren van collega's en het ontwikkelen van een systematische benadering voor communicatie. We kunnen dit project in meerdere fasen splitsen, van de dataverzameling en -analyse tot de implementatie van de app en het gebruik van een **LLM** (Large Language Model) zoals ChatGPT voor communicatieadvies.
 
 ### **Project: Collega Profiler en Communicatie Tool**
